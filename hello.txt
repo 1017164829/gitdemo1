@@ -1,5 +1,7 @@
-hello atguigu hello.txt 222222222222	
-hello atguigu hello.txt 3423423424
+hello atguigu hello.txt 222222222222
+=======
+hello atguigu hello.txt 8888888888888
+>>>>>>> hot-fix
 hello atguigu hello.txt
 hello atguigu hello.txt
 hello atguigu hello.txt
